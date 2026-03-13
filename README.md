@@ -17,7 +17,7 @@
 - 想学习**棋类游戏 AI**实现原理的同学
 - 希望用 JavaScript 实现完整游戏项目的前端开发者
 
-🎮 **在线体验：** [点击这里试玩](https://write-a-chinesechess-program.royhooroyhoo.repl.co/)
+🎮 **在线体验：** [点击这里试玩](https://royhoo.github.io/write-a-chinesechess-program/)
 
 ---
 
